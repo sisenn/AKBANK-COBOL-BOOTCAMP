@@ -1,1 +1,1 @@
-Programın amacı, bir veri dosyasındaki kayıtları okuyarak doğum tarihi ve günümüz tarihi arasındaki yaş farkını hesaplamak ve sonucu başka bir dosyaya yazmaktır. Bu program, veri dosyasındaki kayıtları okuyarak doğum tarihine göre yaşları hesaplayan basit bir örnektir. Programın tamamı bu parçalardan oluşur ve daha fazla işlevsellik eklenmediği için sadece temel bir işlem yapar.
+Bu repositoriede Akbank Cobol Bootcamp süreci boyunca verilen taskler yer almaktadır.
